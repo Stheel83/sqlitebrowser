@@ -6,7 +6,7 @@
     <message>
         <location filename="../AboutDialog.ui" line="14"/>
         <source>About DB Browser for SQLite</source>
-        <translation>Über DB-Browser für SQLite</translation>
+        <translation>Über DB Browser for SQLite</translation>
     </message>
     <message>
         <location filename="../AboutDialog.ui" line="29"/>
@@ -296,7 +296,7 @@
     <message>
         <location filename="../Application.cpp" line="368"/>
         <source>DB Browser for SQLite Version %1.</source>
-        <translation>DB-Browser für SQLite Version %1.</translation>
+        <translation>DB Browser for SQLite Version %1.</translation>
     </message>
     <message>
         <location filename="../Application.cpp" line="369"/>
@@ -2812,7 +2812,7 @@ Sie können SQL-Anweisungen aus einer Objektzeile fassen und in anderen Anwendun
     <message>
         <location filename="../MainWindow.ui" line="260"/>
         <source>Case Sensitive Like</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LIKE beachtet Groß- und Kleinschreibung</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="342"/>
@@ -2878,7 +2878,7 @@ Sie können SQL-Anweisungen aus einer Objektzeile fassen und in anderen Anwendun
     <message>
         <location filename="../MainWindow.ui" line="735"/>
         <source>Auto Vacuum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatische Bereinigung</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="758"/>
@@ -2936,7 +2936,7 @@ Sie können SQL-Anweisungen aus einer Objektzeile fassen und in anderen Anwendun
     <message>
         <location filename="../MainWindow.ui" line="886"/>
         <source>Automatic Index</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatischer Index</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="953"/>
