@@ -2863,12 +2863,12 @@ Sie können SQL-Anweisungen aus einer Objektzeile fassen und in anderen Anwendun
         <location filename="../MainWindow.ui" line="413"/>
         <source>Off</source>
         <comment>pragma</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deaktiviert</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="468"/>
         <source>Page Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seitengröße</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="513"/>
@@ -2883,40 +2883,40 @@ Sie können SQL-Anweisungen aus einer Objektzeile fassen und in anderen Anwendun
     <message>
         <location filename="../MainWindow.ui" line="758"/>
         <source>Max Page Count</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maximale Seitenanzahl</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="794"/>
         <source>Normal</source>
         <comment>pragma</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normal</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="799"/>
         <source>Exclusive</source>
         <comment>pragma</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exklusiv</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="810"/>
         <source>Checkpoint Full FSYNC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Checkpoint für vollständigen FSYNC</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="846"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Deaktiviert</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="851"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normal</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="856"/>
         <location filename="../MainWindow.ui" line="1106"/>
         <source>Full</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vollständig</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="865"/>
@@ -2941,42 +2941,42 @@ Sie können SQL-Anweisungen aus einer Objektzeile fassen und in anderen Anwendun
     <message>
         <location filename="../MainWindow.ui" line="953"/>
         <source>Ignore Check Constraints</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CHECK Beschränkungen ignorieren</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="969"/>
         <source>Full FSYNC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vollständiger FSYNC</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="985"/>
         <source>WAL Auto Checkpoint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatischer WAL Checkpoint</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="1011"/>
         <source>User Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Benutzerversion</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="1071"/>
         <source>Synchronous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Synchron</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="1101"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keine</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="1111"/>
         <source>Incremental</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stufenweise</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="1122"/>
         <source>Locking Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sperrmodus</translation>
     </message>
     <message>
         <location filename="../MainWindow.ui" line="1150"/>
